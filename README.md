@@ -1,8 +1,8 @@
 # Menu_HUD
 ## Participantes
 
- - Vincenzo Monaco(vincenMonaco)
- - Kauã de Castro(KalCastro)
+ <h1>- Vincenzo Monaco(vincenMonaco)
+ - Kauã de Castro(KalCastro)</h1>
 
 ## Descrição
 
